@@ -23,7 +23,7 @@ repository               : "carlossilvazambrano/carlossilvazambrano.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.jpg"
+  avatar           : "images/profile.jpg"
   name             : "Carlos Silva-Zambrano"
   pronouns         : # example: "she/her"  
   bio              : "Environmental economist specialising in fisheries and marine conservation policy within socio-ecological systems. I use stated preference methods, field-based data collection in Latin America, and interdisciplinary collaboration to inform conservation decision-making and fisheries management"
