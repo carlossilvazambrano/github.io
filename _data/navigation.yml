@@ -11,11 +11,5 @@ main:
   - title: "Policy Briefs"
     url: /policybriefs/
 
-  - title: "Teaching"
-    url: /teaching/
-
-  - title: "Talks"
-    url: /talks/
-
   - title: "CV"
     url: /files/Carlos_Silva_Zambrano_CV.pdf
