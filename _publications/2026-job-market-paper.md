@@ -7,5 +7,3 @@ excerpt: "Job Market Paper. Examines how revenue reallocation affects public sup
 date: 2026-01-01
 venue: "Working Paper"
 paperurl: "/files/job_market_paper.pdf"
-citation: "Silva-Zambrano, C., Aravena, C., McLaughlin, E., Viteri, C. (2026). \"Public acceptability of conservation entrance fees: How does reallocating revenues shift support before and after policy implementation.\" Working Paper."
----
