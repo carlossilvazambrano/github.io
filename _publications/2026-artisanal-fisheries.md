@@ -7,5 +7,5 @@ excerpt: "Examines the contribution of artisanal fisheries to food and nutrition
 date: 2026-01-01
 venue: "Frontiers in Sustainable Food Systems"
 paperurl: "https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.1786353/abstract"
-citation: "Viteri, C., Partelow, S., Kluger, L., Silva-Zambrano, C., Tanner, M., Estes, O., Rodriguez, G., Barragan, M.J. (2026). \"Artisanal fisheries provide essential food and nutrition on the Galapagos Islands.\" <i>Frontiers in Sustainable Food Systems</i> (In press)."
+citation: ""
 ---
