@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive
 title: "Policy Briefs"
 permalink: /policybriefs/
 author_profile: true
@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.policybriefs %}
-  {% include archive-single.html %}
+{% assign items = site.policybriefs | sort: "date" | reverse %}
+{% for post in items %}
+  {% include archive-single.html type="list" %}
 {% endfor %}
