@@ -44,21 +44,21 @@
 
 /* --- Custom overrides: make publication list text plain --- */
 
-/* Excerpts should be small weight */
+/* Excerpts should be normal weight */
 .archive__item-excerpt,
 .archive__item-excerpt p {
-  font-weight: small !important;
+  font-weight: normal !important;
 }
 
 /* If excerpt markdown contains bold/strong, neutralize it */
 .archive__item-excerpt strong,
 .archive__item-excerpt b {
-  font-weight: small !important;
+  font-weight: normal !important;
 }
 
-/* "Published in..." line and other archive metadata should be small weight */
+/* "Published in..." line and other archive metadata should be normal weight */
 .archive__item p {
-  font-weight: small !important;
+  font-weight: normal !important;
 }
 
 /* Remove hover styling from excerpt links (if any) */
