@@ -1,0 +1,13 @@
+---
+layout: archive
+title: "Working Papers"
+permalink: /workingpapers/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% assign items = site.workingpapers | sort: "date" | reverse %}
+{% for post in items %}
+  {% include archive-single.html type="list" %}
+{% endfor %}
