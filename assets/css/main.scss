@@ -41,3 +41,29 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+---
+---
+
+@import "minimal-mistakes";
+
+/* Make list-view metadata and excerpts plain (publications, working papers, policy briefs) */
+.archive__item p,
+.archive__item-excerpt,
+.archive__item-excerpt p {
+  font-weight: normal !important;
+}
+
+/* If markdownify introduced <strong> inside excerpts, neutralize it */
+.archive__item-excerpt strong,
+.archive__item-excerpt b {
+  font-weight: normal !important;
+}
+
+/* Remove hover/active highlight styling from excerpt text */
+.archive__item-excerpt a,
+.archive__item-excerpt a:hover,
+.archive__item-excerpt a:focus {
+  color: inherit !important;
+  text-decoration: none !important;
+}
