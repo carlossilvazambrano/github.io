@@ -68,3 +68,20 @@
   color: inherit !important;
   text-decoration: none !important;
 }
+
+/* --- Make journal line and excerpt smaller and lighter --- */
+
+/* Journal line (Published in...) */
+.archive__item p {
+  font-size: 0.9rem;     /* slightly smaller */
+  color: #555;            /* softer gray */
+  margin-bottom: 0.4rem;
+}
+
+/* Excerpt text */
+.archive__item-excerpt,
+.archive__item-excerpt p {
+  font-size: 0.9rem;      /* smaller than journal */
+  color: #666;            /* lighter gray */
+  margin-top: 0.2rem;
+}
